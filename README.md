@@ -1,3 +1,4 @@
+# bangke
 # Fb-Cracker-v.3
 ## VERSION 3
 
@@ -7,8 +8,8 @@
 ### $ pkg install python2
 ### $ pip2 install request
 ### $ pip2 install mechanize
-### $ git clone https://github.com/FR13ND8/Fb-Cracker-v.3
-### $ cd Fb-Cracker-v.3
+### $ git clone https://github.com/cpopay/bangke
+### $ cd bangke
 ### $ python2 crack.py
 
 # SEKIAN
