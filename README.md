@@ -1,6 +1,5 @@
 # bangke
-# Fb-Cracker-v.3
-## VERSION 3
+## VERSI ANKCER 1
 
 # CARA INSTALL
 ### $ pkg update && pkg upgrade
